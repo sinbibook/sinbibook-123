@@ -1,0 +1,522 @@
+{
+  "metadata": {
+    "version": "1.0.0",
+    "generatedAt": "2026-09-14T01:57:00.912058919Z",
+    "templateType": "trip_f",
+    "propertyId": "c8cad542-696e-4555-ae24-dca2105f9cfe",
+    "homepageId": "01a09d86-0e67-7f91-8db4-eda7a2f12213"
+  },
+  "property": {
+    "id": "c8cad542-696e-4555-ae24-dca2105f9cfe",
+    "name": "운영 테스트",
+    "nameEn": "PROD TEST",
+    "description": "운영 테스트 숙소입니다.\n운영에서 테스트 할 때 해당 숙소를 사용하시길 바랍니다.",
+    "subtitle": "운영 테스트 숙소입니다.",
+    "address": "서울 금천구 가산디지털2로 144 1005호",
+    "latitude": 37.4810281626186,
+    "longitude": 126.879311225819,
+    "contactPhone": [ ],
+    "contactEmail": "dev_team@sinbibook.com",
+    "checkin": "15:00",
+    "checkout": "11:00",
+    "checkInOutInfo": "입/퇴실 안내 테스트",
+    "usageGuide": "이용안내 테스트",
+    "reservationGuide": "예약안내 테스트",
+    "province": "도/시",
+    "city": "시/군/구",
+    "domain": "sinbibook-123.com",
+    "realtimeBookingId": "",
+    "ybsId": "",
+    "amenities": [
+      "스파"
+    ],
+    "nearbyAttractions": [
+      "맛집",
+      "수상스포츠"
+    ],
+    "services": [
+      "셔틀버스",
+      "반려동물돌봄"
+    ],
+    "propertyThemes": [
+      "산뷰",
+      "커플"
+    ],
+    "propertyTypes": [
+      "리조트"
+    ],
+    "businessInfo": {
+      "businessName": "사업자명 테스트",
+      "businessNumber": "123-45-67890",
+      "representativeName": "이안2",
+      "businessAddress": "사업자 주소 테스트",
+      "businessPhone": "010-0000-0000",
+      "businessEmail": "ian2@sinbibook.com",
+      "businessType": "individual",
+      "businessCategory": "숙박업",
+      "eCommerceRegistrationNumber": ""
+    },
+    "contractInfo": {
+      "contractStartDate": "2025-09-10T00:00:00.000Z",
+      "contractEndDate": "2025-09-12T00:00:00.000Z",
+      "contractStatus": "active",
+      "contactName": "담당자명",
+      "contactEmail": "담당자 이메일",
+      "contactPhone": "담당자 전화번호",
+      "paymentTerms": null,
+      "cancellationPolicy": null,
+      "bankName": "은행명",
+      "accountNumber": "계좌번호",
+      "accountHolder": "예금주",
+      "commissionRate": 0,
+      "securityDeposit": 0
+    },
+    "facilities": [
+      {
+        "id": "480582e0-0dc6-48f0-9b37-da7e794c7323",
+        "name": "추가",
+        "description": "",
+        "usageGuide": "",
+        "displayOrder": 0,
+        "images": [
+          {
+            "id": "5c124d7e-c65b-488b-84c7-32e58d259622",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/480582e0-0dc6-48f0-9b37-da7e794c7323/main/1782981946232-7jh4kk02wu.jpg",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "69d4958a-42c6-4aaf-a358-77a6e70add26",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/480582e0-0dc6-48f0-9b37-da7e794c7323/main/1783059412724-z896wk8ofn.jpg",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "45117cec-47c8-4078-a941-7b3f5b240f1e",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/480582e0-0dc6-48f0-9b37-da7e794c7323/main/1782981744124-ykc3cl8it7.jpg",
+            "sortOrder": 2,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "b6905ce9-43aa-4aef-a655-91b5a99c0b62",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/480582e0-0dc6-48f0-9b37-da7e794c7323/main/1782981743917-jo89fcn58x.jpg",
+            "sortOrder": 3,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "52d9fb3f-eafc-4e24-8dd1-45fc05aa4cce",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/480582e0-0dc6-48f0-9b37-da7e794c7323/main/1783059412695-226s9ex3pr.jpg",
+            "sortOrder": 4,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          }
+        ]
+      },
+      {
+        "id": "f37a91bf-7134-498a-9af9-d7f81931a72d",
+        "name": "수영장",
+        "description": "수영장 설명입니다.",
+        "usageGuide": "수영장 이용안내",
+        "displayOrder": 2,
+        "images": [
+          {
+            "id": "bffa341b-4b2d-4131-aab8-eabfdf1dfd31",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/f37a91bf-7134-498a-9af9-d7f81931a72d/main/1759124874353-bhltiuv8nh.png",
+            "sortOrder": 0,
+            "description": "이미지 설명 테스트",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "bce867a4-7c2f-4b2d-a86b-7b2d2f1c9a5d",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/f37a91bf-7134-498a-9af9-d7f81931a72d/main/1767868624781-g2ohm8rhl08.jpg",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "92b5b728-299a-4bf7-8da6-878e90af9205",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/f37a91bf-7134-498a-9af9-d7f81931a72d/main/1768814784608-7b7m20rxbum.jpg",
+            "sortOrder": 2,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "2fdafc0d-5024-4c10-8da8-cb3779b16a76",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/f37a91bf-7134-498a-9af9-d7f81931a72d/main/1768814784609-8eks0sru8hx.jpg",
+            "sortOrder": 3,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "4e66249a-b056-4c5f-b8a6-c784228a8871",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/f37a91bf-7134-498a-9af9-d7f81931a72d/main/1768814784609-z95fqrov2v9.jpg",
+            "sortOrder": 4,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          }
+        ]
+      }
+    ],
+    "refundPolicies": [
+      {
+        "refundProcessingDays": 7,
+        "refundRate": 100
+      },
+      {
+        "refundProcessingDays": 5,
+        "refundRate": 80
+      },
+      {
+        "refundProcessingDays": 3,
+        "refundRate": 50
+      },
+      {
+        "refundProcessingDays": 1,
+        "refundRate": 30
+      },
+      {
+        "refundProcessingDays": 0,
+        "refundRate": 0
+      }
+    ],
+    "refundSettings": {
+      "customerRefundNotice": "환불 정책 안내 테스트",
+      "immediateRefundEnabled": true,
+      "immediateRefundTimeLimit": "60",
+      "immediateRefundMinuteLimit": "20",
+      "sameDayReservationHourLimit": "13"
+    },
+    "images": [
+      {
+        "thumbnail": [
+          {
+            "id": "09d8c20b-8e23-4eeb-8f9d-96c45def901b",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/c8cad542-696e-4555-ae24-dca2105f9cfe/thumbnail/1759124873044-l61bv38jebi.png",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          }
+        ],
+        "exterior": [
+          {
+            "id": "2249315b-e8d2-4f4c-9ba8-ae2849199eb4",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/c8cad542-696e-4555-ae24-dca2105f9cfe/exterior/1759124873045-4zcpouztgnn.png",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "dd195c04-b556-4679-96ab-03d5c08f6894",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/c8cad542-696e-4555-ae24-dca2105f9cfe/exterior/1768814586581-i27u1v2j9wj.jpg",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          }
+        ],
+        "surrounding": [
+          {
+            "id": "ab49705b-8225-4704-8e82-240d3d780aab",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/c8cad542-696e-4555-ae24-dca2105f9cfe/surrounding/1759124873045-0m86tupoty.png",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          }
+        ],
+        "commonArea": [
+          {
+            "id": "409ac557-acd7-4e41-9d59-f492cd9f1052",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/c8cad542-696e-4555-ae24-dca2105f9cfe/common_area/1759124873046-ko6scbgvkg.png",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          }
+        ]
+      }
+    ]
+  },
+  "rooms": [
+    {
+      "id": "48699c88-529b-472b-8981-b8275542d4f6",
+      "name": "101",
+      "description": "원룸형, 침대룸(더블침대1)+주방1+화장실1\n10.00평\n욕실용품,남녀공용,TV,금연,냉장고,에어컨,전기밥솥,취사시설/도구",
+      "roomInfo": "",
+      "usageGuide": "원룸형",
+      "group": null,
+      "size": 33.06,
+      "baseOccupancy": 2,
+      "maxOccupancy": 4,
+      "totalRoomCount": {
+        "bedroom": 1,
+        "bathroom": 1,
+        "livingRoom": 0,
+        "ondol": 0,
+        "kitchen": 1
+      },
+      "bedTypes": [
+        "더블 베드"
+      ],
+      "bedConfigs": [
+        {
+          "roomIndex": 1,
+          "roomKind": "bedroom",
+          "bedCount": {
+            "double": 1,
+            "single": 0,
+            "bunkBed": 0,
+            "queen": 0,
+            "king": 0,
+            "family": 0,
+            "sofaBed": 0,
+            "beddingSet": 0
+          }
+        }
+      ],
+      "amenities": [
+        "취사시설/도구",
+        "전기밥솥",
+        "에어컨",
+        "냉장고",
+        "금연",
+        "TV",
+        "남녀공용",
+        "욕실용품"
+      ],
+      "roomViews": [ ],
+      "roomStructures": [
+        "원룸형"
+      ],
+      "status": "active",
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "11:00",
+        "checkout": "15:00",
+        "checkinDeadline": "20:00"
+      },
+      "roomOptions": {
+        "petState": "N",
+        "poolState": "Y",
+        "barbecueState": "Y"
+      },
+      "images": [
+        {
+          "thumbnail": [ ],
+          "interior": [ ],
+          "exterior": [ ]
+        }
+      ],
+      "displayOrder": 1
+    }
+  ],
+  "homepage": {
+    "id": "01a09d86-0e67-7f91-8db4-eda7a2f12213",
+    "domain": "sinbibook-123.com",
+    "templateType": "trip_f",
+    "images": [
+      {
+        "logo": [ ]
+      }
+    ],
+    "seo": {
+      "title": "",
+      "description": "",
+      "keywords": "",
+      "naverSiteVerification": "",
+      "googleSiteVerification": ""
+    },
+    "socialLinks": {
+      "facebook": null,
+      "instagram": null,
+      "blog": null,
+      "youtube": null
+    },
+    "customFields": {
+      "pages": {
+        "index": {
+          "sections": [
+            {
+              "hero": {
+                "title": "",
+                "images": [ ],
+                "videos": [ ],
+                "mediaType": "image",
+                "description": ""
+              },
+              "closing": {
+                "title": "",
+                "images": [ ],
+                "videos": [ ],
+                "mediaType": "image",
+                "description": ""
+              },
+              "essence": {
+                "title": "",
+                "images": [ ],
+                "videos": [ ],
+                "mediaType": "image",
+                "description": ""
+              },
+              "gallery": {
+                "title": "",
+                "images": [ ],
+                "videos": [ ],
+                "mediaType": "image",
+                "description": ""
+              },
+              "signature": {
+                "title": "",
+                "images": [ ],
+                "videos": [ ],
+                "mediaType": "image",
+                "description": ""
+              }
+            }
+          ]
+        },
+        "directions": {
+          "sections": [
+            {
+              "hero": {
+                "title": "",
+                "images": [ ]
+              },
+              "notice": {
+                "title": "",
+                "description": ""
+              }
+            }
+          ]
+        },
+        "main": {
+          "sections": [
+            {
+              "hero": {
+                "title": "",
+                "images": [ ],
+                "description": ""
+              },
+              "about": [ ]
+            }
+          ]
+        },
+        "room": [ ],
+        "facility": [ ],
+        "reservation": {
+          "sections": [
+            {
+              "hero": {
+                "title": "",
+                "images": [ ]
+              },
+              "about": {
+                "title": "",
+                "images": [ ],
+                "description": ""
+              }
+            }
+          ]
+        },
+        "nearbyAttractions": {
+          "sections": [
+            {
+              "hero": {
+                "title": "",
+                "images": [ ],
+                "description": ""
+              },
+              "about": [ ],
+              "enabled": false
+            }
+          ]
+        },
+        "layoutMap": {
+          "sections": [
+            {
+              "hero": {
+                "title": "",
+                "images": [ ],
+                "description": ""
+              },
+              "about": {
+                "title": "",
+                "images": [ ],
+                "description": ""
+              },
+              "enabled": false
+            }
+          ]
+        }
+      },
+      "popup": {
+        "popups": [
+          {
+            "id": "01a09d88-6fd1-7810-90c1-4ad77b6a42c9",
+            "link": "https://backoffice.sinbibook.xyz/homepage/popups",
+            "title": "스테이징 테스트",
+            "images": [
+              {
+                "id": "01a09d88-6fdc-7aff-8a7e-8268a521ab26",
+                "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a09d86-0e67-7f91-8db4-eda7a2f12213/popup/1789349355198-u42k4ok9p1.png",
+                "sortOrder": 0,
+                "description": "",
+                "isSelected": true,
+                "blockId": "01a09d88-6fd1-7810-90c1-4ad77b6a42c9"
+              },
+              {
+                "id": "01a09d88-7001-7d70-bbb2-6bb081e0e8a8",
+                "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a09d86-0e67-7f91-8db4-eda7a2f12213/popup/1789349355201-azjk0bgd8n.png",
+                "sortOrder": 1,
+                "description": "",
+                "isSelected": true,
+                "blockId": "01a09d88-6fd1-7810-90c1-4ad77b6a42c9"
+              }
+            ],
+            "slider": true,
+            "enabled": true,
+            "endDate": "2026-09-30",
+            "sortOrder": 0,
+            "startDate": "2026-09-20",
+            "description": "스테이징 테스트(슬라이드)"
+          }
+        ]
+      },
+      "theme": {
+        "font": {
+          "koMain": null,
+          "koSub": null,
+          "enMain": null
+        },
+        "color": null
+      },
+      "property": {
+        "name": "운영 테스트",
+        "images": [ ],
+        "nameEn": "PROD TEST"
+      },
+      "roomtypes": [
+        {
+          "id": "48699c88-529b-472b-8981-b8275542d4f6",
+          "images": [ ]
+        }
+      ]
+    }
+  }
+}
